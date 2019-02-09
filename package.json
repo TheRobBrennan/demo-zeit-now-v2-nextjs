@@ -1,5 +1,10 @@
 {
   "name": "demo-zeit-now-v2-nextjs",
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/demo-zeit-now-v2-nextjs"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
