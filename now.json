@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "demo-nextjs-nowv2",
+  "alias": "demo-nextjs-nowv2.now.sh",
+  "builds": [
+      { "src": "next.config.js", "use": "@now/next" }
+  ]
+}
